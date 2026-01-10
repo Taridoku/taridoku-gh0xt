@@ -33,3 +33,4 @@ My approach combines:
 ## 🤝 Connect  
 - [X](https://x.com/Taridoku)    
 - [Discord](https://discordapp.com/users/taridoku) 
+- [Telegram](https://t.me/taridoku)
