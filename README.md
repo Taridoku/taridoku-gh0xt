@@ -8,7 +8,7 @@
 
 ## About
 
-I audit DeFi protocols with a focus on the vulnerabilities that matter most — not just code-level bugs, but the economic and design-level flaws that lead to real exploits. My approach combines manual code review, invariant-driven testing, and protocol-level reasoning about how systems actually break under adversarial conditions.
+I audit DeFi protocols with a focus on economic and design-level flaws that lead to real exploits. My approach combines manual code review, invariant-driven testing, and protocol-level reasoning about how systems actually break under adversarial conditions.
 
 Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge V3.1 and Flying Tulip.
 
