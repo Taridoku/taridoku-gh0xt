@@ -16,16 +16,30 @@ Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge
 
 | Date | Protocol | Type | Platform | Findings |
 |---|---|---|---|---|
-| Jan '26 | [Flying Tulip](https://audits.sherlock.xyz/contests/1223) | AMM / DeFi | Sherlock | — |
-| Oct '25 | [Centrifuge Protocol V3.1](https://audits.sherlock.xyz/contests/1028) | Cross-chain / RWA | Sherlock | [1 H, 1 M](https://audits.sherlock.xyz/contests/1028/voting) |
-| Sep '25 | [Ammplify](https://audits.sherlock.xyz/contests/1054) | AMM | Sherlock | [2 M](https://audits.sherlock.xyz/contests/1054/voting) |
-| Aug '25 | [USG – Tangent](https://audits.sherlock.xyz/contests/1073) | Lending / Collateral | Sherlock | [1 H, 2 M](https://audits.sherlock.xyz/contests/1073/voting) |
-| Aug '25 | [Kuru Contracts](https://cantina.xyz/competitions/cdce21ba-b787-4df4-9c56-b31d085388e7) | DEX / CLOB | Cantina | 2 H *(not yet public)* |
-| Aug '25 | [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065) | Staking / Compliance | Sherlock | [1 M](https://audits.sherlock.xyz/contests/1065/voting) |
-| Jul '25 | [Malda](https://audits.sherlock.xyz/contests/1029) | Cross-chain Lending | Sherlock | [3 M](https://audits.sherlock.xyz/contests/1029/voting) |
-| Jul '25 | [GTE Spot CLOB](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) | DEX / Order Book | Code4rena | [1 H](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router/submissions/S-287) |
-| May '25 | [Superform Core](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694) | Cross-chain Vaults | Cantina | 1 H, 1 M *(not yet public)* |
-| Apr '25 | [Burve](https://audits.sherlock.xyz/contests/858) | DeFi / Vaults | Sherlock | [1 H](https://audits.sherlock.xyz/contests/858/voting) |
+| Mar '26 | [Current Finance](https://audits.sherlock.xyz/contests/1256?filter=questions) | Lending / Collateral | Sherlock | [ 1H, 1M](https://audits.sherlock.xyz/contests/1256?filter=results) |
+| Jan '26 | [Fluid Dex V2](https://audits.sherlock.xyz/contests/1225?filter=questions) | DEX | Sherlock | [ 1H, 1M ](https://audits.sherlock.xyz/contests/1225) |
+| Jan '26 | Flying Tulip| AMM / DeFi | Sherlock | — |
+| Oct '25 | [Centrifuge Protocol V3.1](https://audits.sherlock.xyz/contests/1028) | Cross-chain / RWA | Sherlock | [1 H, 1 M](https://audits.sherlock.xyz/contests/1028?filter=results) |
+| Sep '25 | [Ammplify](https://audits.sherlock.xyz/contests/1054) | AMM | Sherlock | [2 M](https://audits.sherlock.xyz/contests/1054?filter=results) |
+| Aug '25 | [USG – Tangent](https://audits.sherlock.xyz/contests/1073) | Lending / Collateral | Sherlock | [1 H, 2 M](https://audits.sherlock.xyz/contests/1073) |
+| Aug '25 | [Kuru Contracts](https://cantina.xyz/competitions/cdce21ba-b787-4df4-9c56-b31d085388e7) | DEX / CLOB | Cantina | [2 H](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview/leaderboard)|
+| Aug '25 | [Neutrl Protocol](https://audits.sherlock.xyz/contests/1065) | Staking / Compliance | Sherlock | [1 M](https://audits.sherlock.xyz/contests/1065/voting/230) |
+| Jul '25 | [Malda](https://audits.sherlock.xyz/contests/1029) | Cross-chain Lending | Sherlock | [3 M](https://audits.sherlock.xyz/contests/1029) |
+| Jul '25 | [GTE Spot CLOB](https://code4rena.com/audits/2025-07-gte-spot-clob-and-router) | DEX / Order Book | Code4rena | [1 H](https://code4rena.com/reports/2025-07-gte-spot-clob-and-router) |
+| May '25 | [Superform Core](https://cantina.xyz/competitions/ba62fa4e-f933-4eec-b9ac-868325f4a694) | Cross-chain Vaults | Cantina | [1 H, 1 M](https://cantina.xyz/code/ba62fa4e-f933-4eec-b9ac-868325f4a694/overview/leaderboard) |
+| Apr '25 | [Burve](https://audits.sherlock.xyz/contests/858) | DeFi / Vaults | Sherlock | [1 H](https://audits.sherlock.xyz/contests/858/voting/258) |
+
+## Private engagements
+
+| Protocol | Engagement | Report |
+|---|---|---|
+| Centrifuge | BurraSec | [ Report ](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-04-burraSec-onchain-pm.pdf) |
+
+## Bug bounty
+
+| Platform | Protocol | Confirmed severity |
+|---|---|---|
+| Sherlock | Undisclosed | Low |
 
 ## Selected Findings
 
