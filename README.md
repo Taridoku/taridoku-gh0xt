@@ -67,7 +67,7 @@ The vulnerabilities I find tend to cluster around recurring themes:
 
 | Domain | |
 |---|---|
-| **Smart Contracts** | Solidity |
+| **Smart Contracts** | Solidity ·  Noir |
 | **Testing & Fuzzing** | Foundry (forge, cast, chisel) · Invariant testing · Stateful fuzzing |
 | **Formal Verification** | Certora · Halmos |
 | **Ecosystems** | EVM |
