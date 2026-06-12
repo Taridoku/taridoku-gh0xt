@@ -74,7 +74,15 @@ The vulnerabilities I find tend to cluster around recurring themes:
 
 ## Current Work
 
-- Exploring **Noir** — zero-knowledge circuit language for private smart contract development.
+Exploring **Noir** — zero-knowledge circuit language for private smart contract development.
+- [Private token contract](https://github.com/Taridoku/Token)
+- Private project
+
+## Articles 
+| Article | Domain | Link |
+|---|---|---|
+| Witty Authwits | Aztec smart contract development | [Link](https://x.com/Taridoku/status/2052542557918232876?s=20) |
+| The two clocks on private execution | Aztec smart contract development | [Link](https://x.com/Taridoku/status/2057001073336828370?s=20) |
 
 ## Contact
 
