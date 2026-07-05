@@ -34,6 +34,8 @@ Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge
 | Protocol | Engagement | Report |
 |---|---|---|
 | Centrifuge | BurraSec | [ Report ](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-04-burraSec-onchain-pm.pdf) |
+| Undisclosed | BurraSec | Confidential defi |
+| Undisclosed | BurraSec | Confidential defi |
 
 ## Bug bounty
 
