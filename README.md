@@ -37,11 +37,22 @@ Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge
 | Undisclosed | BurraSec | Confidential defi |
 | Undisclosed | BurraSec | Confidential defi |
 
+## Triage engagements
+
+| Role | Platform | Engagement |
+|---|---|---|
+| Triager | BurraSec | - |
+| Triager | Pashov | - |
+| Lead judge | Sherlock | Metric contest |
+
 ## Bug bounty
 
 | Platform | Protocol | Confirmed severity |
 |---|---|---|
 | Sherlock | Undisclosed | Low |
+| Public good | Undisclosed | Medium |
+| Public good | Undisclosed | Medium |
+
 
 ## Selected Findings
 
