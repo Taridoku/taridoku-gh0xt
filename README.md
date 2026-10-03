@@ -40,6 +40,7 @@ Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge
 | Apr 6–9, 2026 | Centrifuge | OnchainPM | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-04-burraSec-onchain-pm.pdf) |
 | — | Undisclosed | DeFi | BurraSec | Confidential |
 | — | Undisclosed | DeFi | BurraSec | Confidential |
+| — | Undisclosed (~3 additional engagements) | DeFi | — | Confidential |
 
 ## Triage engagements
 
