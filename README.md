@@ -31,14 +31,15 @@ Podium finishes include 1st place on Neutrl Protocol and 2nd place on Centrifuge
 
 ## Private engagements
 
-| Protocol | Engagement | Report |
-|---|---|---|
-| Centrifuge | BurraSec | [ Report ](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-04-burraSec-onchain-pm.pdf) |
-| Undisclosed | BurraSec | Confidential defi |
-| Undisclosed | BurraSec | Confidential defi |
-| Centrifuge | BurraSec | NA |
-| Centrifuge | BurraSec | NA |
-
+| Review dates | Protocol | Scope | Team | Report |
+|---|---|---|---|---|
+| Aug 20–21, 2026 | Centrifuge | ShareManager | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-08-burraSec-ShareManager.pdf) |
+| Jul 28–Aug 3, 2026 | Centrifuge | v3.3, Part 2 | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-08-burraSec-v3.3.pdf) |
+| Jul 16–17, 2026 | Centrifuge | TokenBridge | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-07-burraSec-bridge.pdf) |
+| Jul 6–15, 2026 | Centrifuge | v3.3 — Manifest permissions & cross-chain messaging | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-07-burraSec-v3.3.pdf) |
+| Apr 6–9, 2026 | Centrifuge | OnchainPM | BurraSec | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2026-04-burraSec-onchain-pm.pdf) |
+| — | Undisclosed | DeFi | BurraSec | Confidential |
+| — | Undisclosed | DeFi | BurraSec | Confidential |
 
 ## Triage engagements
 
